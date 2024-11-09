@@ -9,8 +9,8 @@ I create 3 classes `polygon`, `EmbeddedPolygon` and `Run`
     - I set the default value of variable that will be used to be a random same as original code and I add 2 variable name `polygon` and `number`. `polygon` it's used to check that what you want to run is `"polygon"` or `"Embedded"` the default input is `"polygon"`. And `number` is used to set the number of embedded which default value is set to 2 to 5.
   
 **How to run my program**  
-Basicly if you run `$ py polygon_art.py` you will get the question `Which art do you want to generate? Enter a number between 1 to 9 inclusive: `  which give you a triangle, square , pentagon and a random polygon that have both normal and embedded form.  
+&nbsp;&nbsp;&nbsp;&nbsp; Basicly if you run `$ py polygon_art.py` you will get the question `Which art do you want to generate? Enter a number between 1 to 9 inclusive: `  which give you a triangle, square , pentagon and a random polygon that have both normal and embedded form.  
 **Problem and Issue**  
   - This program isn't running well on shell because at most I coded out of classes.
   - My code have many arguments and instance attributes.
-  - At first I have no idea what I'm doing, so I ask two TA's to have me pass this assignment.
+  - At first I have no idea what I'm doing, so I ask two TA's to make me pass this assignment.
